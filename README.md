@@ -2,13 +2,13 @@
 
 
 
-### MySQL
+### [MySQL](https://github.com/chencong-plan/note/tree/master/MySQL)
 
-####  [2018_4_16mysql题目](blob/master/MySQL/mysql题目_4.16.md)
++   2018_4_16mysql题目
 
 
 
-### Java
+### [Java](https://github.com/chencong-plan/note/tree/master/Java)
 
-#### [2018-4-9线程_JVM_GC_堆栈](blob/master/Java/线程2018-4-9.md)
++   2018-4-9线程_JVM_GC_堆栈
 
