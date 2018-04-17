@@ -5,6 +5,7 @@
 ### [MySQL](https://github.com/chencong-plan/note/tree/master/MySQL)
 
 +   2018_4_16mysql题目
++   类的声明周期
 
 
 
